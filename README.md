@@ -1,5 +1,5 @@
 ### :man_technologist: About Me :
-I am a Full Stack Data Engineer from Kazakhstan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .[![committers.top badge](https://user-badge.committers.top/kazakhstan_public/Mikanebu.svg)](https://user-badge.committers.top/kazakhstan_public/Mikanebu)
+I am a Full Stack Data Engineer from Kazakhstan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![committers.top badge](https://user-badge.committers.top/kazakhstan_public/Mikanebu.svg)](https://user-badge.committers.top/kazakhstan_public/Mikanebu)
 
 - :telescope: I’m working as a Data Engineer.
 
